@@ -30,7 +30,9 @@ I have higher engineering(IT) education from WSPA Lublin.
 
 # Experience
 
-- QA/Software Tester Simple S.A. OCT 2017 -> NOW 
+- Test Analityst: DPD Polska 05.2023 -> NOW
+- QA/Software Tester: ENP 11.2022 -> 04.2023
+- QA/Software Tester: Simple S.A. 10.2017 -> 10.2022
 - Databases Intern AUG 2014 - SEP 2014
 
 
